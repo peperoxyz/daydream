@@ -1,0 +1,2 @@
+<?php 
+$total_kredit = $jumlah_saldo1_1_1 + $jumlah_saldo2_1_1 + $jumlah_saldo3_1_1 + $jumlah_saldo4_1_1 + $jumlah_saldo5_1_1 + $jumlah_saldo6_1_1 + $jumlah_saldo7_1_1 + $jumlah_saldo8_1_1 + $jumlah_saldo9_1_1 + $jumlah_saldo10_1_1 + $jumlah_saldo11_1_1 + $jumlah_saldo25_1_1 + $jumlah_saldo13_1_1 + $jumlah_saldo14_1_1 + $jumlah_saldo15_1_1 + $jumlah_saldo16_1_1 + $jumlah_saldo12_1_1 + $jumlah_saldo17_1_1 + $jumlah_saldo18_1_1 + $jumlah_saldo19_1_1 + $jumlah_saldo20_1_1 + $jumlah_saldo21_1_1 + $jumlah_saldo22_1_1 + $jumlah_saldo23_1_1 + $jumlah_saldo24_1_1
